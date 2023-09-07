@@ -1,4 +1,4 @@
-# GitHubFinder
+# GitHubFinder   https://tejaskarde21.github.io/GitHubFinder/GithubFinderApiCall/index.htm
 
 
 Here I using document.getElementById() to retrieve elements from your HTML by their respective IDs.
